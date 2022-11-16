@@ -6,13 +6,9 @@ author = 'Shain Lakin (v0yager)'
 version = 'v1.0.0'
 desc =[[
 
-┣--▇▇▇▇▇▇═─--- 
-
 This script modifies the DT NeXT implant (NTAG216) configuration pages.
 
-https://www.x90x90.net/assets/files/datasheets/NTAG213_215_216.pdf
-
-~ NeXT Defaults ~
+- NeXT Defaults -
 
 Default hf mfu info:
 ----------------------------------------------------------------------
