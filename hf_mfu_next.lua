@@ -58,11 +58,13 @@ Disable password protection:
 
     script run hf_mfu_next -x protect -p DNGR -a FF
 
-Enable the counter and enable read + write password protection on password protected pages (protected block start specified using -x protect mode):
+Enable the counter and enable read + write password protection on password protected pages 
+(protected block start page specified using -x protect mode):
 
     script run hf_mfu_next -x conf -p DNGR -c enable -m rw
 
-Disable the counter and enable write only password protection on password protected pages (protected block start specified using -x protect mode):
+Disable the counter and enable write only password protection on password protected pages
+(protected block start specified using -x protect mode):
 
     script run hf_mfu_next -x conf -p DNGR -c disable -m w
 
