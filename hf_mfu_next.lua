@@ -2,7 +2,7 @@ local getopt = require('getopt')
 local ansicolors  = require('ansicolors')
 
 copyright = ''
-author = 'Shain Lakin (v0yager)'
+author = 'Shain Lakin'
 version = 'v1.0.0'
 desc =[[
 
